@@ -1,0 +1,11 @@
+C:\Users\joaol\Documents\GitHub\cypher_agent\target\debug\deps\socket2-74d4dd59769ea720.d: C:\Users\joaol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.5\src\lib.rs C:\Users\joaol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.5\src\sockaddr.rs C:\Users\joaol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.5\src\socket.rs C:\Users\joaol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.5\src\sockref.rs C:\Users\joaol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.5\src\sys\windows.rs
+
+C:\Users\joaol\Documents\GitHub\cypher_agent\target\debug\deps\libsocket2-74d4dd59769ea720.rlib: C:\Users\joaol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.5\src\lib.rs C:\Users\joaol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.5\src\sockaddr.rs C:\Users\joaol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.5\src\socket.rs C:\Users\joaol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.5\src\sockref.rs C:\Users\joaol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.5\src\sys\windows.rs
+
+C:\Users\joaol\Documents\GitHub\cypher_agent\target\debug\deps\libsocket2-74d4dd59769ea720.rmeta: C:\Users\joaol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.5\src\lib.rs C:\Users\joaol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.5\src\sockaddr.rs C:\Users\joaol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.5\src\socket.rs C:\Users\joaol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.5\src\sockref.rs C:\Users\joaol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.5\src\sys\windows.rs
+
+C:\Users\joaol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.5\src\lib.rs:
+C:\Users\joaol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.5\src\sockaddr.rs:
+C:\Users\joaol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.5\src\socket.rs:
+C:\Users\joaol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.5\src\sockref.rs:
+C:\Users\joaol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\socket2-0.6.5\src\sys\windows.rs:

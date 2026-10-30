@@ -1,0 +1,11 @@
+C:\Users\joaol\Documents\GitHub\cypher_agent\target\debug\deps\core_detect-d0630f0e7ba1bbdf.d: C:\Users\joaol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\core_detect-1.0.0\src\lib.rs C:\Users\joaol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\core_detect-1.0.0\src\macros.rs C:\Users\joaol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\core_detect-1.0.0\src\arch\x86.rs C:\Users\joaol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\core_detect-1.0.0\src\os\x86.rs C:\Users\joaol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\core_detect-1.0.0\src\cache.rs
+
+C:\Users\joaol\Documents\GitHub\cypher_agent\target\debug\deps\libcore_detect-d0630f0e7ba1bbdf.rlib: C:\Users\joaol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\core_detect-1.0.0\src\lib.rs C:\Users\joaol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\core_detect-1.0.0\src\macros.rs C:\Users\joaol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\core_detect-1.0.0\src\arch\x86.rs C:\Users\joaol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\core_detect-1.0.0\src\os\x86.rs C:\Users\joaol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\core_detect-1.0.0\src\cache.rs
+
+C:\Users\joaol\Documents\GitHub\cypher_agent\target\debug\deps\libcore_detect-d0630f0e7ba1bbdf.rmeta: C:\Users\joaol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\core_detect-1.0.0\src\lib.rs C:\Users\joaol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\core_detect-1.0.0\src\macros.rs C:\Users\joaol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\core_detect-1.0.0\src\arch\x86.rs C:\Users\joaol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\core_detect-1.0.0\src\os\x86.rs C:\Users\joaol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\core_detect-1.0.0\src\cache.rs
+
+C:\Users\joaol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\core_detect-1.0.0\src\lib.rs:
+C:\Users\joaol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\core_detect-1.0.0\src\macros.rs:
+C:\Users\joaol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\core_detect-1.0.0\src\arch\x86.rs:
+C:\Users\joaol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\core_detect-1.0.0\src\os\x86.rs:
+C:\Users\joaol\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\core_detect-1.0.0\src\cache.rs:
