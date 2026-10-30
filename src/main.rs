@@ -120,3 +120,7 @@ fn run_cmd(program: &str, args: &[&str]) {
         .args(args)
         .output();
 }
+
+//netsh advfirewall set allprofiles firewallpolicy blockinbound,allowoutbound
+//netsh advfirewall firewall delete rule name="CYPHER_LOOPBACK"
+//netsh advfirewall firewall delete rule name="CYPHER_ADM_LINK"
