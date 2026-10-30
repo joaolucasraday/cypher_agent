@@ -1,0 +1,14 @@
+[package]
+name = "cypher_agent"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# Biblioteca oficial para chamar APIs nativas do Windows
+windows = { version = "0.58", features = [
+    "Win32_Foundation",
+    "Win32_System_Threading",
+] }
+
+# Biblioteca que encapsula a API 'ReadDirectoryChangesW' do Windows com alta performance
+notify = "6.1.1"
